@@ -1,5 +1,7 @@
 #input string
+string = input("Input: ")
 #input end_string
+end_string = input("Check if ending in: ")
 #find end_string in string
 #if endstring not in string
     #print False
