@@ -4,7 +4,10 @@ string = input("Input: ")
 words = string.split()
 print(words)
 #iterate through each words
+for word in words:
     #iterate through each characters
+    for character in word:
+        print(character)
         #check if first letter
             #convert to upper if true
             #add to new string
