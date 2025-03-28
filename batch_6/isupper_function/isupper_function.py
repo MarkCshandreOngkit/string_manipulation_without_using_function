@@ -1,4 +1,5 @@
 #input string
+string = input("Input: ")
 #create upper variable with string converted to upper
 #check if string is the same as upper
     #print True
